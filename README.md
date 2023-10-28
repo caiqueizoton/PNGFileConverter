@@ -1,0 +1,20 @@
+## **Project Name**: PNG to JPG Converter
+
+## **Description**:
+
+This Python-based image file converter streamlines the conversion of PNG files to JPG format. In the course of my career of over 5 years working as a video editor and producer, I frequently needed to convert image files for various projects. This often involved using different random applications, sometimes processing one file at a time. To automate this repetitive and time-consuming task, I developed a Python application that simplifies the conversion process. Now, you can convert multiple images across different directories in one go.
+
+## **Key Features**:
+- Converts PNG images to JPG format.
+- Provides an option to include subdirectories in the conversion.
+- Offers a user-friendly command-line interface.
+
+## **How to Use**:
+- Run the script.
+- Enter the path to the directory containing the files to be converted.
+- Choose whether to include subdirectories in the conversion.
+- The script will process the files and convert PNG images to JPG.  
+
+Simplify and accelerate your image format conversion workflow with this Python-based PNG to JPG Converter.
+
+### Author:  Carlos Izoton Filho
