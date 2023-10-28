@@ -17,4 +17,4 @@ This Python-based image file converter streamlines the conversion of PNG files t
 
 Simplify and accelerate your image format conversion workflow with this Python-based PNG to JPG Converter.
 
-### Author:  Carlos Izoton Filho
+### Author: Carlos Izoton Filho
