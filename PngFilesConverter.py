@@ -39,6 +39,8 @@ for root, directories, files in os.walk(file_path):
                 print ('Invalid input. Please enter "yes" or "no".')
             else:
                 break
+    else:
+        subdir_choice = no
                 
 # Generate a list of image files, considering subdirectory inclusion choice
 if subdir_choice == 'yes':
