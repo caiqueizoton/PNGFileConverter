@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[2]:
 
 
 import os, glob
@@ -21,9 +21,9 @@ def converter_function(contents_directory):
                     print("cannot convert", items)
     print ("Conversion concluded.")
 
-# Prompt the user for path to directory with files to be converted
+# Get the path to the directory containing files for conversion
 while True:
-    file_path = input('Enter the path to the file or directory containing multiple files to be converted:')      
+    file_path = input('Enter the path to the directory containing files for conversion:')      
     if os.path.exists(file_path):
     # If path is valid, exit loop and proceede
         break
