@@ -28,8 +28,8 @@ In the course of my career of over 5 years working as a video editor and produce
 1. Download the project files.
 2. Open your terminal and navigate to the project directory.
 3. Install the required library using pip:
-  ```bash
-  pip install Pillow
+ ```bash
+  pip install --user -U pillow tk
   ```
 
 ### Usage:
