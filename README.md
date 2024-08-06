@@ -41,4 +41,7 @@ In the course of my career of over 5 years working as a video editor and produce
 
 The application will process the files and save the converted images in the same directory.
 
-### Author: Carlos Izoton Filho
+## Screenshot
+
+![GUI](images/Converter_01.png)
+*Image 01: Screenshot of the script's GUI in operation.*
