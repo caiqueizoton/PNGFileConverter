@@ -25,16 +25,19 @@ In the course of my career of over 5 years working as a video editor and produce
   ```
 
 **Installing the Image File Converter:**
-1. Download the project files.
-2. Open your terminal and navigate to the project directory.
-3. Install the required library using pip:
- ```bash
-  pip install pillow tk
-  ```
+1. **Download the project files**: Clone the repository or download the ZIP file from GitHub.
+2. **Open your terminal**: Navigate to the project directory:
+```bash
+cd /path/to/your/project
+```
+3. **Install the required library**:
+```bash
+pip install -r requirements.txt
+```
 
 ### Usage:
 
-1. Run the script (`python image_file_converter.py`).
+1. Run the script (`PngFilesConverter.py`).
 2. Click "Browse Folder" to select the directory containing your image files.
 3. Choose whether to include subdirectories for conversion using the checkbox.
 4. Click "Convert PNG to JPG" or "Convert JPG to PNG" depending on your desired conversion.
